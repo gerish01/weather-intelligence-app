@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Real-time weather intelligence powered by Open-Meteo with geocoding, 7-day temperature trends, travel advisories, and responsive visual forecasts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
